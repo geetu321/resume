@@ -1,0 +1,43 @@
+ .container{
+   background-color: rgb(252, 253, 255);
+  
+ }
+ h1,h2,h3,h4,h5,h6,p{
+   font-family: poppins;
+    
+ }
+ .topsection p{
+  font-size: 12px;
+ }
+ .topsection2 p{
+  font-size: 12px;
+  margin-left: 5px;
+   
+ }
+ .career p{
+  font-size: 12px;
+ }
+ 
+ h1{
+   font-weight: 600;
+ }
+ .career .skills .project .education .experience .strength{
+   padding: 10px 10px;
+ }
+ .title{
+   background-color: rgba( 0,0,255,0.492);
+   color:white;
+  
+   font-weight: 500;
+   
+  
+ }
+ .title h3{
+   font-size: 15px;
+ }
+ p{
+padding: 5px;
+ }
+span{
+  padding-left:10px;
+ }
